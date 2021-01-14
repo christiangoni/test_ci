@@ -1,0 +1,6 @@
+Github Pages
+npm i angular-cli-ghpages --save-dev
+ng build --prod --base-href "/"
+npx angular-cli-ghpages
+https://username.github.io/test_ci/
++Netlify
